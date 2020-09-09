@@ -6,11 +6,12 @@ Change 2 : -> Bug1 fix
 
 Change 3 : -> bug2 ;
 
-
 Change : made by another team mate
 
-change4
+change 4
 
 change 5
+
+Change 6 :-> CR2 by teammate on remote repo to test
 
 
