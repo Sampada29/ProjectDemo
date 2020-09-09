@@ -1,4 +1,7 @@
-Welcome to Git demo......
+
+Welcome to Git demo
 
 Happy learning
 Change - by teammate
+
+Change : logout feature
